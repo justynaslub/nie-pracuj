@@ -4,6 +4,7 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 import pl.niepracuj.model.dto.TechnologyDto;
 import pl.niepracuj.model.entity.Technology;
+import pl.niepracuj.service.technology.TechnologyService;
 
 import java.util.List;
 
